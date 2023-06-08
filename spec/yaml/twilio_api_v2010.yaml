@@ -3819,6 +3819,7 @@ components:
       type: string
       enum:
       - fixed
+      - recipient-local
     api.v2010.account.message.message_feedback:
       type: object
       properties:
